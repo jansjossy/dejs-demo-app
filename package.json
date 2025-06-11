@@ -1,0 +1,10 @@
+
+{
+  "name": "dejs-demo-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Running test\" && exit 0"
+  }
+}
