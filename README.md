@@ -1,4 +1,5 @@
-[CI_CD_Pipeline_Report.docx](https://github.com/user-attachments/files/20851362/CI_CD_Pipeline_Report.docx)
+Report:[dejs-demo-app-report.docx](https://github.com/user-attachments/files/20929335/dejs-demo-app-report.docx)
+
 # dejs-demo-app
 
 ![Screenshot 2025-06-11 095157](https://github.com/user-attachments/assets/a337f73a-99b7-4b68-92be-eac322935951)
